@@ -13,7 +13,8 @@ As we are given very limited libraries and base functions to use in the future p
 
 the names of the functions are exactly the same as the ones we are trying to replicate, but adding "ft_" (might stand for "function" or "forty-two", or both) in front of them.
 
-UPDATE: I've been adding new functions as i've been finishing projects and making new useful functions. Also added ft_printf and get_next_line to be included in my libft.
+*UPDATE: I've been adding new functions as i've been finishing projects and making new useful functions. Also added ft_printf and get_next_line to be included in my libft.*
+
 
 Here is a complete list of the functions asked in the subject as per april 2021:
 
@@ -28,7 +29,7 @@ ft_memcpy \
 ft_memmove \
 ft_memset
 
-/**** STRING FUNCTIONS ****/
+**STRING FUNCTIONS**
 
 ft_split \
 ft_strchr \
@@ -45,7 +46,7 @@ ft_strrchr \
 ft_strtrim \
 ft_substr
 
-/**** AUXILIARY FUNCTIONS ****/
+**AUXILIARY FUNCTIONS**
 
 ft_atoi \
 ft_itoa \
@@ -57,7 +58,7 @@ ft_isprint \
 ft_tolower \
 ft_toupper
 
-/**** LISTS FUNCTIONS ****/
+**LISTS FUNCTIONS**
 
 ft_lstadd_back \
 ft_lstadd_front \
@@ -69,7 +70,7 @@ ft_lstmap \
 ft_lstnew \
 ft_lstsize
 
-/**** FUNCTIONS TO WRITE INTO FILE DESCRIPTORS ****/
+**FUNCTIONS TO WRITE INTO FILE DESCRIPTORS**
 
 ft_putchar_fd \
 ft_putendl_fd \
