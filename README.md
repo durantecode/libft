@@ -17,7 +17,7 @@ UPDATE: I've been adding new functions as i've been finishing projects and makin
 
 Here is a complete list of the functions asked in the subject as per april 2021:
 
-** MEMORY FUNCTIONS **
+**MEMORY FUNCTIONS**
 
 ft_bzero \
 ft_calloc \
