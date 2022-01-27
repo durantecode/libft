@@ -13,7 +13,7 @@ As we are given very limited libraries and base functions to use in the future p
 
 the names of the functions are exactly the same as the ones we are trying to replicate, but adding "ft_" (might stand for "function" or "forty-two", or both) in front of them.
 
-### *UPDATE: I've been adding new functions as i've been finishing projects and making new useful functions. Also added ft_printf and get_next_line to be included in my libft.* ###
+### UPDATE: ### *I've been adding new functions as i've been finishing projects and making new useful functions. Also added ft_printf and get_next_line to be included in my libft.*
 
 
 Here is a complete list of the functions asked in the subject as per april 2021:
