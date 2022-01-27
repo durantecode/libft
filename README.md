@@ -17,7 +17,7 @@ UPDATE: I've been adding new functions as i've been finishing projects and makin
 
 Here is a complete list of the functions asked in the subject as per april 2021:
 
-/**** MEMORY FUNCTIONS ****/
+** MEMORY FUNCTIONS **
 
 ft_bzero \
 ft_calloc \
@@ -26,52 +26,52 @@ ft_memchr \
 ft_memcmp \
 ft_memcpy \
 ft_memmove \
-ft_memset \
+ft_memset
 
 /**** STRING FUNCTIONS ****/
 
-ft_split
-ft_strchr
-ft_strdup
-ft_strjoin
-ft_strlcat
-ft_strlcpy
-ft_strlen
-ft_strmapi
-ft_strncmp
-ft_strcmp
-ft_strnstr
-ft_strrchr
-ft_strtrim
+ft_split \
+ft_strchr \
+ft_strdup \
+ft_strjoin \
+ft_strlcat \
+ft_strlcpy \
+ft_strlen \
+ft_strmapi \
+ft_strncmp \
+ft_strcmp \
+ft_strnstr \
+ft_strrchr \
+ft_strtrim \
 ft_substr
 
 /**** AUXILIARY FUNCTIONS ****/
 
-ft_atoi
-ft_itoa
-ft_isalnum
-ft_isalpha
-ft_isascii
-ft_isdigit
-ft_isprint
-ft_tolower
+ft_atoi \
+ft_itoa \
+ft_isalnum \
+ft_isalpha \
+ft_isascii \
+ft_isdigit \
+ft_isprint \
+ft_tolower \
 ft_toupper
 
 /**** LISTS FUNCTIONS ****/
 
-ft_lstadd_back
-ft_lstadd_front
-ft_lstclear
-ft_lstdelone
-ft_lstiter
-ft_lstlast
-ft_lstmap
-ft_lstnew
+ft_lstadd_back \
+ft_lstadd_front \
+ft_lstclear \
+ft_lstdelone \
+ft_lstiter \
+ft_lstlast \
+ft_lstmap \
+ft_lstnew \
 ft_lstsize
 
 /**** FUNCTIONS TO WRITE INTO FILE DESCRIPTORS ****/
 
-ft_putchar_fd
-ft_putendl_fd
-ft_putnbr_fd
+ft_putchar_fd \
+ft_putendl_fd \
+ft_putnbr_fd \
 ft_putstr_fd
