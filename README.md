@@ -19,14 +19,14 @@ Here is a complete list of the functions asked in the subject as per april 2021:
 
 /**** MEMORY FUNCTIONS ****/
 
-ft_bzero
-ft_calloc
-ft_memccpy
-ft_memchr
-ft_memcmp
-ft_memcpy
-ft_memmove
-ft_memset
+ft_bzero \
+ft_calloc \
+ft_memccpy \
+ft_memchr \
+ft_memcmp \
+ft_memcpy \
+ft_memmove \
+ft_memset \
 
 /**** STRING FUNCTIONS ****/
 
